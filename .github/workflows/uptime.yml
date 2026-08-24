@@ -1,0 +1,61 @@
+name: uptime
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uptime
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check every site
+        id: check
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NYZ_TZ: America/Toronto
+          NYZ_HEARTBEAT_HOUR: '9'
+        run: node check.js
+
+      - name: Rebuild status.md
+        if: always()
+        env:
+          NYZ_TZ: America/Toronto
+        run: node report.js --write
+
+      - name: Commit state + history
+        if: always()
+        run: |
+          git config user.name  "nyz-uptime"
+          git config user.email "uptime@nyzdigitals.com"
+          git add state.json status.md history .heartbeat .tg-offset 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "uptime: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git push
+          fi
+
+      - name: Fail the run if a site went down
+        if: always() && steps.check.outcome == 'failure'
+        run: |
+          echo "::error::One or more sites went down - see the check step and your Telegram."
+          exit 1
