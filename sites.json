@@ -1,0 +1,111 @@
+{
+  "defaults": {
+    "timeoutMs": 15000,
+    "attempts": 3,
+    "attemptGapMs": 4000,
+    "expectBelow": 400,
+    "certWarnDays": 14
+  },
+  "sites": [
+    {
+      "domain": "247icedream.com",
+      "label": "247 Ice Dream"
+    },
+    {
+      "domain": "77inches.ca",
+      "label": "77 Inches"
+    },
+    {
+      "domain": "accountrai.ca",
+      "label": "Accountr AI"
+    },
+    {
+      "domain": "brothersinarmsmemorial.ca",
+      "label": "Brothers in Arms Memorial"
+    },
+    {
+      "domain": "burritoguyz.ca",
+      "label": "Burrito Guyz"
+    },
+    {
+      "domain": "chinmayalondon.org",
+      "label": "Chinmaya London"
+    },
+    {
+      "domain": "downsouthwellness.com",
+      "label": "Down South Wellness"
+    },
+    {
+      "domain": "drzhengdentistry.com",
+      "label": "Dr Zheng Dentistry"
+    },
+    {
+      "domain": "exeterdentalcare.ca",
+      "label": "Exeter Dental Care"
+    },
+    {
+      "domain": "foundationpt.ca",
+      "label": "Foundation PT"
+    },
+    {
+      "domain": "globalsage.org",
+      "label": "Global Sage"
+    },
+    {
+      "domain": "gobalsage.org",
+      "label": "Global Sage (typo domain)"
+    },
+    {
+      "domain": "hcclondon.ca",
+      "label": "HCC London"
+    },
+    {
+      "domain": "hinduvidyamission.org",
+      "label": "Hindu Vidya Mission"
+    },
+    {
+      "domain": "lifebuildcanada.ca",
+      "label": "Lifebuild Canada"
+    },
+    {
+      "domain": "lifeshades.ca",
+      "label": "Lifeshades"
+    },
+    {
+      "domain": "londongranite.ca",
+      "label": "London Granite"
+    },
+    {
+      "domain": "mydanini.com",
+      "label": "DANINI"
+    },
+    {
+      "domain": "nyzdigitals.com",
+      "label": "NYZ Digitals"
+    },
+    {
+      "domain": "nyzmedia.ca",
+      "label": "NYZ Media"
+    },
+    {
+      "domain": "shixa.ca",
+      "label": "Shixa"
+    },
+    {
+      "domain": "southlondonmoleclinic.ca",
+      "label": "South London Mole Clinic"
+    },
+    {
+      "domain": "spheredentalgroup.ca",
+      "label": "Sphere Dental Group"
+    },
+    {
+      "domain": "www.srishticanada.org",
+      "label": "Srishti Canada"
+    },
+    {
+      "domain": "tacozntreatz.ca",
+      "label": "Tacoz N Treatz"
+    }
+  ]
+}
