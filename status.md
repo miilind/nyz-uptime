@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**24/26 sites up** · **2 down** · last checked Aug 31, 2026, 02:09 (America/Toronto)
+**24/26 sites up** · **2 down** · last checked Aug 31, 2026, 02:18 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 6d) · `hinduvidyamission.org` (SSL certificate name mismatch, 6d)
 
@@ -9,25 +9,25 @@
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [77inches.ca](https://77inches.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 314ms | 58d |
 | [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 100% | 232ms | 28d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 4278ms | 178d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 4266ms | 178d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 298ms | 152d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 99.34% | 99.62% | 99.62% | 514ms | 190d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 100% | 100% | 3418ms | 179d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 99.34% | 99.62% | 99.62% | 2744ms | 167d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 100% | 100% | 2882ms | 143d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 2264ms | 54d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 100% | 100% | 3335ms | 191d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 100% | 100% | 3419ms | 179d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 99.34% | 99.62% | 99.62% | 2746ms | 167d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 100% | 100% | 2874ms | 143d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 2260ms | 54d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 100% | 100% | 3336ms | 191d |
 | [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 100% | 100% | 2718ms | 190d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 258ms | 36d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 88.16% | 85.28% | 85.28% | 316ms | 80d |
-| [lifeshades.ca](https://lifeshades.ca) | 🟢 up | 98.68% | 99.25% | 99.25% | 2982ms | 178d |
-| [londongranite.ca](https://londongranite.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 869ms | 165d |
-| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 100% | 100% | 354ms | 65d |
+| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 88.16% | 85.34% | 85.34% | 318ms | 80d |
+| [lifeshades.ca](https://lifeshades.ca) | 🟢 up | 98.68% | 99.25% | 99.25% | 2975ms | 178d |
+| [londongranite.ca](https://londongranite.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 870ms | 165d |
+| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 100% | 100% | 353ms | 65d |
 | [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 100% | 100% | 319ms | 48d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 3376ms | 88d |
-| [shixa.ca](https://shixa.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 3334ms | 122d |
-| [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 251ms | 191d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 3378ms | 88d |
+| [shixa.ca](https://shixa.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 3335ms | 122d |
+| [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 252ms | 191d |
 | [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 99.34% | 99.62% | 99.62% | 329ms | 110d |
 | [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2381ms | 191d |
 | [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 100% | 100% | 100% | 1013ms | 63d |
