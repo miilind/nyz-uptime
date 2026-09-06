@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**23/26 sites up** · **3 down** · last checked Sep 6, 2026, 07:19 (America/Toronto)
+**23/26 sites up** · **3 down** · last checked Sep 6, 2026, 07:30 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 12d) · `hinduvidyamission.org` (SSL certificate name mismatch, 12d) · `lifeshades.ca` (HTTP 503, 4d)
 
@@ -9,27 +9,27 @@
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 99.88% | 99.90% | 331ms | 54d |
 | [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 99.75% | 99.79% | 458ms | 22d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.88% | 99.90% | 4276ms | 173d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.88% | 99.90% | 4277ms | 173d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 304ms | 146d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 99.88% | 99.90% | 553ms | 186d |
 | [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.75% | 99.79% | 3246ms | 173d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.75% | 99.79% | 2835ms | 163d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.75% | 99.79% | 2839ms | 163d |
 | [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.75% | 99.79% | 2745ms | 137d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.63% | 99.69% | 2447ms | 49d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.63% | 99.69% | 2450ms | 49d |
 | [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.75% | 99.79% | 3441ms | 185d |
 | [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.75% | 99.79% | 2790ms | 184d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 99.75% | 99.69% | 250ms | 30d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 87.39% | 88.55% | 87.68% | 275ms | 74d |
-| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 38.67% | 47.91% | 2837ms | 177d |
+| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 87.39% | 88.55% | 87.70% | 275ms | 74d |
+| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 38.55% | 47.86% | 2843ms | 177d |
 | [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 99.63% | 99.69% | 901ms | 160d |
 | [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.75% | 99.79% | 393ms | 59d |
-| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 99.75% | 99.79% | 356ms | 43d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.63% | 99.69% | 3656ms | 83d |
-| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.75% | 99.69% | 3021ms | 116d |
+| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 99.75% | 99.79% | 355ms | 43d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.63% | 99.69% | 3657ms | 83d |
+| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.75% | 99.69% | 3018ms | 116d |
 | [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 100% | 99.88% | 99.79% | 254ms | 185d |
-| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 99.88% | 99.90% | 340ms | 105d |
-| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2377ms | 185d |
+| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 99.88% | 99.90% | 339ms | 105d |
+| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2376ms | 185d |
 | [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 98.32% | 99.38% | 99.48% | 1014ms | 57d |
 | [tacozntreatz.ca](https://tacozntreatz.ca) | 🟢 up | 100% | 100% | 99.90% | 229ms | 154d |
 
