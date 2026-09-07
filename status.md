@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**23/26 sites up** · **3 down** · last checked Sep 6, 2026, 23:44 (America/Toronto)
+**23/26 sites up** · **3 down** · last checked Sep 6, 2026, 23:56 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 13d) · `hinduvidyamission.org` (SSL certificate name mismatch, 13d) · `lifeshades.ca` (HTTP 503, 5d)
 
@@ -9,27 +9,27 @@
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 99.87% | 99.90% | 325ms | 52d |
 | [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 99.75% | 99.81% | 504ms | 21d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.90% | 4268ms | 173d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.90% | 4267ms | 173d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 300ms | 146d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 99.87% | 99.90% | 549ms | 183d |
 | [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 99.13% | 99.62% | 99.71% | 3253ms | 173d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.75% | 99.81% | 2836ms | 163d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 99.13% | 99.62% | 99.71% | 2739ms | 137d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 99.13% | 99.49% | 99.61% | 2466ms | 49d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 99.13% | 99.62% | 99.71% | 3448ms | 185d |
-| [gobalsage.org](https://gobalsage.org) | 🟢 up | 99.13% | 99.62% | 99.71% | 2775ms | 184d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.75% | 99.81% | 2839ms | 163d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 99.13% | 99.62% | 99.71% | 2738ms | 137d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 99.13% | 99.49% | 99.61% | 2465ms | 49d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 99.13% | 99.62% | 99.71% | 3447ms | 185d |
+| [gobalsage.org](https://gobalsage.org) | 🟢 up | 99.13% | 99.62% | 99.71% | 2778ms | 184d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 99.13% | 99.62% | 99.61% | 248ms | 197d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 86.09% | 88.42% | 87.45% | 262ms | 73d |
-| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 26.72% | 44.31% | 2865ms | 177d |
+| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 86.09% | 88.42% | 87.46% | 262ms | 73d |
+| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 26.59% | 44.26% | 2860ms | 177d |
 | [londongranite.ca](https://londongranite.ca) | 🟢 up | 99.13% | 99.49% | 99.61% | 876ms | 160d |
 | [mydanini.com](https://mydanini.com) | 🟢 up | 99.13% | 99.62% | 99.71% | 396ms | 59d |
 | [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 99.13% | 99.62% | 99.71% | 360ms | 42d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 99.13% | 99.49% | 99.61% | 3656ms | 83d |
-| [shixa.ca](https://shixa.ca) | 🟢 up | 99.13% | 99.62% | 99.61% | 2968ms | 116d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 99.13% | 99.49% | 99.61% | 3659ms | 83d |
+| [shixa.ca](https://shixa.ca) | 🟢 up | 99.13% | 99.62% | 99.61% | 2965ms | 116d |
 | [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 99.13% | 99.75% | 99.71% | 248ms | 184d |
 | [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 99.87% | 99.90% | 340ms | 105d |
-| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2349ms | 185d |
+| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2346ms | 185d |
 | [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 100% | 99.36% | 99.52% | 984ms | 56d |
 | [tacozntreatz.ca](https://tacozntreatz.ca) | 🟢 up | 100% | 100% | 99.90% | 228ms | 153d |
 
