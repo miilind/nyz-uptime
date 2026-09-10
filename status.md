@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**22/25 sites up** · **3 down** · last checked Sep 10, 2026, 15:36 (America/Toronto)
+**22/25 sites up** · **3 down** · last checked Sep 10, 2026, 15:46 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 17d) · `hinduvidyamission.org` (SSL certificate name mismatch, 17d) · `lifeshades.ca` (HTTP 503, 8d)
 
@@ -9,26 +9,26 @@
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.93% | 306ms | 52d |
 | [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 99.86% | 594ms | 18d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.86% | 4021ms | 173d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.86% | 4019ms | 173d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 300ms | 142d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 100% | 99.93% | 502ms | 183d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.60% | 99.72% | 3208ms | 169d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.74% | 99.79% | 2804ms | 159d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 99.05% | 99.60% | 99.72% | 2669ms | 133d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.60% | 99.72% | 3209ms | 169d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.74% | 99.79% | 2806ms | 159d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 99.05% | 99.60% | 99.72% | 2670ms | 133d |
 | [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.60% | 99.64% | 2571ms | 49d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.60% | 99.72% | 3329ms | 181d |
-| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.60% | 99.72% | 2630ms | 180d |
-| [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 99.74% | 99.71% | 232ms | 193d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.60% | 99.72% | 3330ms | 181d |
+| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.60% | 99.72% | 2631ms | 180d |
+| [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 99.74% | 99.72% | 232ms | 193d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 32.65% | — | 177d |
-| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 92.06% | 95.59% | 956ms | 156d |
+| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 32.62% | — | 177d |
+| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 92.06% | 95.59% | 960ms | 156d |
 | [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.74% | 99.79% | 418ms | 55d |
 | [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 99.74% | 99.79% | 361ms | 38d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.74% | 99.72% | 3461ms | 83d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.74% | 99.72% | 3459ms | 83d |
 | [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.60% | 99.64% | 2977ms | 112d |
 | [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 100% | 99.87% | 99.79% | 226ms | 181d |
-| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.93% | 319ms | 103d |
-| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2310ms | 181d |
+| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.93% | 322ms | 103d |
+| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2308ms | 181d |
 | [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 100% | 99.60% | 99.64% | 1028ms | 53d |
 | [tacozntreatz.ca](https://tacozntreatz.ca) | 🟢 up | 100% | 100% | 99.93% | 210ms | 150d |
 
