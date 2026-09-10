@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**23/26 sites up** · **3 down** · last checked Sep 10, 2026, 03:25 (America/Toronto)
+**23/26 sites up** · **3 down** · last checked Sep 10, 2026, 03:39 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 16d) · `hinduvidyamission.org` (SSL certificate name mismatch, 16d) · `lifeshades.ca` (HTTP 503, 8d)
 
@@ -8,25 +8,25 @@
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.93% | 311ms | 52d |
-| [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 99.85% | 602ms | 18d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.85% | 3982ms | 173d |
+| [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 99.85% | 598ms | 18d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.87% | 99.85% | 3981ms | 173d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 301ms | 142d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 100% | 99.93% | 509ms | 183d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.60% | 99.70% | 3172ms | 169d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.74% | 99.78% | 2804ms | 159d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.60% | 99.70% | 3175ms | 169d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.74% | 99.78% | 2807ms | 159d |
 | [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.74% | 99.78% | 2650ms | 133d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.60% | 99.63% | 2573ms | 49d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.60% | 99.63% | 2572ms | 49d |
 | [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.60% | 99.70% | 3291ms | 181d |
-| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.60% | 99.70% | 2620ms | 180d |
+| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.60% | 99.70% | 2621ms | 180d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 99.74% | 99.70% | 222ms | 193d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 93.14% | 88.10% | 88.25% | 255ms | 70d |
-| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 33.92% | — | 177d |
-| [londongranite.ca](https://londongranite.ca) | 🟢 up | 60.78% | 92.06% | 95.42% | 920ms | 156d |
-| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.74% | 99.78% | 428ms | 55d |
-| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 99.74% | 99.78% | 363ms | 38d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.74% | 99.70% | 3445ms | 83d |
-| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.60% | 99.63% | 2973ms | 112d |
+| [lifebuildcanada.ca](https://lifebuildcanada.ca) | 🟢 up | 93.14% | 88.10% | 88.26% | 254ms | 70d |
+| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 33.90% | — | 177d |
+| [londongranite.ca](https://londongranite.ca) | 🟢 up | 61.76% | 92.06% | 95.42% | 920ms | 156d |
+| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.74% | 99.78% | 427ms | 55d |
+| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 99.74% | 99.78% | 362ms | 38d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 99.74% | 99.70% | 3448ms | 83d |
+| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.60% | 99.63% | 2977ms | 112d |
 | [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 100% | 99.87% | 99.78% | 228ms | 181d |
 | [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.93% | 322ms | 103d |
 | [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 100% | 2309ms | 181d |
