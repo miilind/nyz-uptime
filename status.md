@@ -1,30 +1,30 @@
 # NYZ Uptime — Status
 
-**22/25 sites up** · **3 down** · last checked Sep 14, 2026, 12:09 (America/Toronto)
+**22/25 sites up** · **3 down** · last checked Sep 14, 2026, 12:26 (America/Toronto)
 
-> 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 20d) · `hinduvidyamission.org` (SSL certificate name mismatch, 20d) · `lifeshades.ca` (HTTP 503, 12d)
+> 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 21d) · `hinduvidyamission.org` (SSL certificate name mismatch, 21d) · `lifeshades.ca` (HTTP 503, 12d)
 
 | Site | Status | 24h | 7d | 30d | Avg (7d) | SSL |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.94% | 317ms | 45d |
+| [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.94% | 322ms | 45d |
 | [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 99.89% | 612ms | 14d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.86% | 99.89% | 3967ms | 165d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 99.86% | 99.89% | 3976ms | 165d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 100% | 289ms | 138d |
-| [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 100% | 99.94% | 489ms | 176d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.86% | 99.78% | 3211ms | 165d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.86% | 99.84% | 2859ms | 154d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.86% | 99.78% | 2689ms | 129d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.86% | 99.73% | 2576ms | 41d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.86% | 99.78% | 3319ms | 177d |
-| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.86% | 99.78% | 2674ms | 176d |
+| [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 100% | 99.94% | 493ms | 176d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.86% | 99.78% | 3214ms | 165d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 100% | 99.86% | 99.84% | 2867ms | 154d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.86% | 99.78% | 2685ms | 129d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 99.86% | 99.73% | 2585ms | 41d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.86% | 99.78% | 3318ms | 177d |
+| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.86% | 99.78% | 2673ms | 176d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 100% | 99.78% | 262ms | 189d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 25.22% | — | 177d |
-| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 92.11% | 96.59% | 1146ms | 151d |
-| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.86% | 99.78% | 406ms | 51d |
+| [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 25.21% | — | 177d |
+| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 92.11% | 96.60% | 1155ms | 151d |
+| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 99.86% | 99.78% | 405ms | 51d |
 | [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 100% | 99.84% | 352ms | 34d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 100% | 99.78% | 3187ms | 75d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🟢 up | 100% | 100% | 99.78% | 3186ms | 75d |
 | [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 99.86% | 99.73% | 2999ms | 108d |
 | [singlaimmigration.ca](https://singlaimmigration.ca) | 🟢 up | 100% | 100% | 99.83% | 223ms | 177d |
 | [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.94% | 295ms | 97d |
