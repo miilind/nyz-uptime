@@ -1,6 +1,6 @@
 # NYZ Uptime — Status
 
-**22/25 sites up** · **3 down** · last checked Sep 21, 2026, 11:07 (America/Toronto)
+**22/25 sites up** · **3 down** · last checked Sep 21, 2026, 11:21 (America/Toronto)
 
 > 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 27d) · `hinduvidyamission.org` (SSL certificate name mismatch, 27d) · `lifeshades.ca` (HTTP 503, 19d)
 
@@ -12,11 +12,11 @@
 | [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 98.13% | 99.60% | 99.80% | 3725ms | 159d |
 | [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 99.87% | 100% | 320ms | 131d |
 | [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 98.13% | 99.73% | 99.88% | 525ms | 171d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.73% | 99.77% | 3163ms | 158d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 98.13% | 99.60% | 99.77% | 2659ms | 154d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.73% | 99.77% | 2504ms | 122d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 98.13% | 99.60% | 99.69% | 2267ms | 35d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.87% | 99.80% | 3085ms | 170d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 99.73% | 99.77% | 3162ms | 158d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🟢 up | 98.13% | 99.60% | 99.77% | 2663ms | 154d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 99.73% | 99.77% | 2501ms | 122d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 98.13% | 99.60% | 99.69% | 2270ms | 35d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 99.87% | 99.80% | 3081ms | 170d |
 | [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 99.87% | 99.80% | 2477ms | 169d |
 | [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 100% | 99.84% | 251ms | 182d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
