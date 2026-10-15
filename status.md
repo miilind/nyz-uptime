@@ -1,35 +1,35 @@
 # NYZ Uptime — Status
 
-**19/25 sites up** · **6 down** · last checked Oct 15, 2026, 01:00 (America/Toronto)
+**19/25 sites up** · **6 down** · last checked Oct 15, 2026, 05:45 (America/Toronto)
 
-> 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 51d) · `drzhengdentistry.com` (HTTP 500, 7d) · `hinduvidyamission.org` (SSL certificate name mismatch, 51d) · `lifeshades.ca` (HTTP 503, 43d) · `nyzmedia.ca` (HTTP 500, 7d) · `singlaimmigration.ca` (HTTP 500, 1d)
+> 🔴 **Down now:** `247icedream.com` (SSL certificate name mismatch, 51d) · `drzhengdentistry.com` (HTTP 500, 8d) · `hinduvidyamission.org` (SSL certificate name mismatch, 51d) · `lifeshades.ca` (HTTP 503, 43d) · `nyzmedia.ca` (HTTP 500, 8d) · `singlaimmigration.ca` (HTTP 500, 1d)
 
 | Site | Status | 24h | 7d | 30d | Avg (7d) | SSL |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | [247icedream.com](https://247icedream.com) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
-| [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.81% | 1140ms | 183d |
-| [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 100% | 1130ms | 60d |
-| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 100% | 99.71% | 4165ms | 89d |
-| [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 99.90% | 330ms | 108d |
-| [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 72.73% | 98.64% | 947ms | 150d |
-| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 100% | 99.81% | 3372ms | 135d |
-| [drzhengdentistry.com](https://drzhengdentistry.com) | 🔴 down — HTTP 500 | 0.00% | 0.00% | 96.03% | — | 132d |
-| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 100% | 99.81% | 2463ms | 99d |
-| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 100% | 99.61% | 2759ms | 181d |
-| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 100% | 99.90% | 3153ms | 147d |
-| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 100% | 99.90% | 2567ms | 146d |
-| [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 100% | 99.81% | 204ms | 158d |
+| [77inches.ca](https://77inches.ca) | 🟢 up | 100% | 100% | 99.80% | 1114ms | 183d |
+| [accountrai.ca](https://accountrai.ca) | 🟢 up | 100% | 100% | 100% | 1106ms | 60d |
+| [brothersinarmsmemorial.ca](https://brothersinarmsmemorial.ca) | 🟢 up | 100% | 100% | 99.70% | 4056ms | 89d |
+| [burritoguyz.ca](https://burritoguyz.ca) | 🟢 up | 100% | 100% | 99.90% | 331ms | 108d |
+| [chinmayalondon.org](https://chinmayalondon.org) | 🟢 up | 100% | 73.53% | 98.62% | 936ms | 150d |
+| [downsouthwellness.com](https://downsouthwellness.com) | 🟢 up | 100% | 100% | 99.80% | 3390ms | 135d |
+| [drzhengdentistry.com](https://drzhengdentistry.com) | 🔴 down — HTTP 500 | 0.00% | 0.00% | 95.87% | — | 132d |
+| [exeterdentalcare.ca](https://exeterdentalcare.ca) | 🟢 up | 100% | 100% | 99.80% | 2478ms | 99d |
+| [foundationpt.ca](https://foundationpt.ca) | 🟢 up | 100% | 100% | 99.61% | 2796ms | 181d |
+| [globalsage.org](https://globalsage.org) | 🟢 up | 100% | 100% | 99.90% | 3088ms | 147d |
+| [gobalsage.org](https://gobalsage.org) | 🟢 up | 100% | 100% | 99.90% | 2593ms | 146d |
+| [hcclondon.ca](https://hcclondon.ca) | 🟢 up | 100% | 100% | 99.80% | 203ms | 158d |
 | [hinduvidyamission.org](https://hinduvidyamission.org) | 🔴 down — SSL certificate name mismatch | 0.00% | 0.00% | 0.00% | — | — |
 | [lifeshades.ca](https://lifeshades.ca) | 🔴 down — HTTP 503 | 0.00% | 0.00% | 0.00% | — | 177d |
-| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 100% | 99.71% | 1030ms | 124d |
-| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 100% | 100% | 414ms | 80d |
-| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 100% | 100% | 503ms | 68d |
-| [nyzmedia.ca](https://nyzmedia.ca) | 🔴 down — HTTP 500 | 0.00% | 0.00% | 96.03% | — | 52d |
-| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 66.67% | 98.35% | 2868ms | 78d |
-| [singlaimmigration.ca](https://singlaimmigration.ca) | 🔴 down — HTTP 500 | 0.00% | 72.73% | 99.13% | 242ms | 148d |
-| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.81% | 618ms | 69d |
-| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 99.61% | 2097ms | 147d |
-| [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 100% | 100% | 99.81% | 2323ms | 80d |
+| [londongranite.ca](https://londongranite.ca) | 🟢 up | 100% | 100% | 99.70% | 1020ms | 124d |
+| [mydanini.com](https://mydanini.com) | 🟢 up | 100% | 100% | 100% | 410ms | 80d |
+| [nyzdigitals.com](https://nyzdigitals.com) | 🟢 up | 100% | 100% | 100% | 521ms | 68d |
+| [nyzmedia.ca](https://nyzmedia.ca) | 🔴 down — HTTP 500 | 0.00% | 0.00% | 95.87% | — | 52d |
+| [shixa.ca](https://shixa.ca) | 🟢 up | 100% | 67.65% | 98.33% | 2882ms | 78d |
+| [singlaimmigration.ca](https://singlaimmigration.ca) | 🔴 down — HTTP 500 | 0.00% | 70.59% | 99.02% | 242ms | 148d |
+| [southlondonmoleclinic.ca](https://southlondonmoleclinic.ca) | 🟢 up | 100% | 100% | 99.80% | 609ms | 69d |
+| [spheredentalgroup.ca](https://spheredentalgroup.ca) | 🟢 up | 100% | 100% | 99.61% | 2107ms | 147d |
+| [www.srishticanada.org](https://www.srishticanada.org) | 🟢 up | 100% | 100% | 99.80% | 2285ms | 80d |
 | [tacozntreatz.ca](https://tacozntreatz.ca) | 🟢 up | 100% | 100% | 100% | 191ms | 116d |
 
 <sub>Generated by `report.js`. Source of truth: `state.json` + `history/`. Alerts go to Telegram.</sub>
